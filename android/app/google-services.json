@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917138763935",
+    "project_id": "crm-machine-test",
+    "storage_bucket": "crm-machine-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917138763935:android:10d6746c196bb660f672aa",
+        "android_client_info": {
+          "package_name": "com.example.crm_machine_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdah1TF743hWzUmGMDZIRhqbWNz7mrml0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
