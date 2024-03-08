@@ -1,6 +1,6 @@
 import 'package:crm_machine_test/app.dart';
 import 'package:crm_machine_test/firebase_options.dart';
-import 'package:crm_machine_test/manager/injector.dart';
+import 'package:crm_machine_test/product_management/injector.dart';
 import 'package:firebase_core/firebase_core.dart';
 // import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
